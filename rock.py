@@ -18,10 +18,7 @@ elif user_choice == "Rock" and computer_choice == "Scissors":
 
     print("You win!")
 
-
-
 elif user_choice == "Paper" and computer_choice == "Rock":
-
 
     print("You win!")
 
@@ -32,8 +29,6 @@ elif user_choice == "Scissors" and computer_choice == "Paper":
 else:
 
     print("Computer wins!")
-
-
 
 
 
